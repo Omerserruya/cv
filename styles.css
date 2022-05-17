@@ -1,0 +1,42 @@
+/************************ tags style *********************/
+.img{
+    width: auto;
+    height: 25%;
+}
+
+body{
+    background-color:#fefaf6;
+    font-family: Biotif-Regular,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+ hr{
+     border-style: none;
+     border-top-style: dotted;
+     border-color: #DAE5D0;
+     width: 10%;
+     height: 0%;
+     border-width: 7px;
+ }
+ 
+ h1{
+    font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #A0BCC2; 
+ }
+ 
+ h2{
+    font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: #321e3b; 
+ }
+
+ /************************ class style *********************/
+ 
+ .cv{
+     width: 90%;
+     border-radius: 10px;
+     background:linear-gradient(6.03deg,#dacdff .5%,rgba(218,205,255,0) 46.89%),#ffeaee;
+     padding: 5px;
+     margin-left: 5%;
+     margin-top: 3%;
+     margin-bottom: 3%;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.123), 0 6px 20px 0 rgba(0, 0, 0, 0.123), 0 4px 8px 0 rgba(0, 0, 0, 0.123);
+    }
