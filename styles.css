@@ -1,22 +1,12 @@
 /************************ tags style *********************/
-.img{
-    width: auto;
-    height: 25%;
-}
 
 body{
     background-color:#fefaf6;
     font-family: Biotif-Regular,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin: 0;
 }
 
- hr{
-     border-style: none;
-     border-top-style: dotted;
-     border-color: #DAE5D0;
-     width: 10%;
-     height: 0%;
-     border-width: 7px;
- }
+
  
  h1{
     font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
@@ -24,8 +14,8 @@ body{
  }
  
  h2{
-    font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
-    color: #321e3b; 
+    color: #22A39F; 
+    font-size: 2em;
  }
 
  /************************ class style *********************/
@@ -40,3 +30,52 @@ body{
      margin-bottom: 3%;
      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.123), 0 6px 20px 0 rgba(0, 0, 0, 0.123), 0 4px 8px 0 rgba(0, 0, 0, 0.123);
     }
+
+    .wel{
+        font-family: "Bradley Hand ITC", sans-serif;
+        font-size:  4em;
+        padding-top: 15%;
+    }
+
+    .iter{
+        background-color: #fafafa;
+        font-family: "Papyrus", Fantasy;
+        color:#A0BCC2 ;
+        text-align: center;
+        height: 100%;
+    }
+
+    .containerpro{
+        font-family: 'Open Sans', sans-serif ;
+        height: 100%;
+        padding: 40px 180px;
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 5%;
+        min-width: 350px;
+    }
+
+    .col{
+        width: 30%;
+        padding: 15px;
+        height: auto;
+        text-align: left;
+        display: inline-block;
+        box-sizing: content-box;
+        min-width: 350px;
+    }
+    .col1{
+        width: 30%;
+        padding: 15px;
+        height: auto;
+        text-align: center;
+        display: inline-block;
+    }
+
+
+    /************************ id selector *********************/
+
+#profilepic{
+    width: auto;
+    height: 25%;
+}
