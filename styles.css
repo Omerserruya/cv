@@ -37,7 +37,7 @@ p{
     .wel{
         font-family: "Bradley Hand ITC", sans-serif;
         font-size:  4em;
-        padding-top: 10%;
+        padding-top: 15%;
         color: #A0BCC2; 
     }
 
@@ -72,7 +72,7 @@ p{
     }
     .icon{
         display: inline-block;
-        position: relative;
+        position: absolute;
         width: 7%;
         height: auto;
     }
