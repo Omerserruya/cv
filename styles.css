@@ -75,6 +75,7 @@ p{
         position: absolute;
         width: 7%;
         height: auto;
+        min-width: 45px;
     }
 
     /************************ id selector *********************/
