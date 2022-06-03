@@ -1,0 +1,81 @@
+/************************ tags style *********************/
+html,body{
+    margin:0;
+    padding:0;
+    height:100%
+}
+
+/************************ class style *********************/
+.introstyle{
+    background-color: #fafafa;
+    height: 100%; 
+
+}
+
+.intext{
+    margin: auto;
+    padding-top: 30vh ;
+    font-family: "Papyrus", Fantasy;
+    color:#A0BCC2 ;
+    width: 50%;
+    min-width: 700px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.intext h1{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 0;
+    font-size: 7rem;
+}
+
+.icon{
+    display: inline-block;
+    position: absolute;
+    width: 7%;
+    height: auto;
+    min-width: 45px;
+}
+
+.aboutstyle{
+    text-align: center;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif !important;
+    width: 65%;
+    min-width: 600px;
+    padding-bottom: 50px;
+}
+
+.profilepic{
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+
+.col{
+    width: 30%;
+    min-width: 305px;
+    padding:15px 5px;
+    height: 100%;
+    text-align: left;
+    display: inline-block;
+    margin: auto;
+}
+
+.aboutstyle h2{
+    color: #22A39F; 
+    font-size: 2rem;
+}
+
+.aboutstyle h3{
+    color: #22A39F; 
+    font-size: 1.5rem;
+}
+
+.cvstyle{
+    background-color: #F3EFE0;
+    font-family: 'Open Sans', sans-serif !important;
+    color:#A0BCC2 ;
+    text-align: center;
+    height: 100%;
+    }
