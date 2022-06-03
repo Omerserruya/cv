@@ -17,18 +17,21 @@ html,body{
     padding-top: 30vh ;
     font-family: "Papyrus", Fantasy;
     color:#A0BCC2 ;
-    width: 50%;
-    min-width: 700px;
+    width: 80%;
+    min-width: 300px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 4vw;
 }
 
 .intext h1{
     font-family: 'Indie Flower', cursive;
     margin-top: 0;
-    font-size: 7rem;
+    font-size: 10vw;
 }
-
+.intext h4{
+    margin-top: 0;
+    font-size: 5vw;
+}
 .icon{
     display: inline-block;
     position: absolute;
